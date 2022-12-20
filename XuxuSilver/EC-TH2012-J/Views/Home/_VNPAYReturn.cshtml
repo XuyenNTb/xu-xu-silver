@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+        </div>
+    </form>
+    <script src="@Url.Content("~/template/assets/js/jquery-1.10.2.min.js")"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var submitUrl = "/Home/_VNPAYReturns";
+            var postData = localStorage.getItem("khachHang");
+            $.ajax({
+                type: "GET",
+                url: submitUrl,
+                data: JSON.parse(postData),
+                dataType: 'JSON',
+                success: function (x) {
+                    localStorage.removeItem("khachHang");
+                    location.href = "http://xuxuliver.com/home" + x;
+                }
+            })
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,525 @@
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\EC-TH2012-J.dll.config
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\EC-TH2012-J.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\EC-TH2012-J.pdb
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Owin.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\PagedList.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\WebGrease.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\PagedList.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\obj\Debug\EC-TH2012-J.dll
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\obj\Debug\EC-TH2012-J.pdb
+C:\Users\Admin\Desktop\TH201\EC-TH2012 - 123code.vn\Code\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EC-TH2012-J.dll.config
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EC-TH2012-J.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EC-TH2012-J.pdb
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\AutoMapper.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Owin.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\PagedList.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.Extensions.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.Primitives.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\WebGrease.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\AutoMapper.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\PagedList.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\obj\Debug\EC-TH2012-J.dll
+C:\Users\Admin\Desktop\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\obj\Debug\EC-TH2012-J.pdb
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EC-TH2012-J.dll.config
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EC-TH2012-J.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EC-TH2012-J.pdb
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Antlr3.Runtime.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\AutoMapper.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EntityFramework.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EntityFramework.SqlServer.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Web.Infrastructure.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Newtonsoft.Json.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Owin.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\PagedList.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\PagedList.Mvc.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.Extensions.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.Formatting.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.Primitives.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.WebRequest.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Cors.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Helpers.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.Cors.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.WebHost.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Mvc.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Optimization.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Razor.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.Deployment.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.Razor.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\WebGrease.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Antlr3.Runtime.pdb
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\AutoMapper.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EntityFramework.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\EntityFramework.SqlServer.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\PagedList.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\PagedList.Mvc.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Net.Http.WebRequest.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Helpers.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.Cors.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Http.WebHost.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Mvc.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Optimization.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.Razor.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.Deployment.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\bin\System.Web.WebPages.Razor.xml
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\obj\Debug\EC-TH2012-J.dll
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\obj\Debug\EC-TH2012-J.pdb
+C:\DOANTOTNGHIEP\WebNhaHangOnline\WebNhaHangOnline\Code\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csprojResolveAssemblyReference.cache
+F:\Code\Code\EC-TH2012-J\bin\EC-TH2012-J.dll.config
+F:\Code\Code\EC-TH2012-J\bin\EC-TH2012-J.dll
+F:\Code\Code\EC-TH2012-J\bin\EC-TH2012-J.pdb
+F:\Code\Code\EC-TH2012-J\bin\Antlr3.Runtime.dll
+F:\Code\Code\EC-TH2012-J\bin\AutoMapper.dll
+F:\Code\Code\EC-TH2012-J\bin\Elasticsearch.Net.dll
+F:\Code\Code\EC-TH2012-J\bin\EntityFramework.dll
+F:\Code\Code\EC-TH2012-J\bin\EntityFramework.SqlServer.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Web.Infrastructure.dll
+F:\Code\Code\EC-TH2012-J\bin\Nest.dll
+F:\Code\Code\EC-TH2012-J\bin\Owin.dll
+F:\Code\Code\EC-TH2012-J\bin\PagedList.dll
+F:\Code\Code\EC-TH2012-J\bin\PagedList.Mvc.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Data.SqlClient.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Net.Http.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Net.Http.Extensions.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Net.Http.Formatting.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Net.Http.Primitives.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Net.Http.WebRequest.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Cors.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Helpers.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Http.Cors.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Http.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Http.WebHost.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Mvc.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Optimization.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Razor.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.WebPages.Deployment.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.WebPages.dll
+F:\Code\Code\EC-TH2012-J\bin\System.Web.WebPages.Razor.dll
+F:\Code\Code\EC-TH2012-J\bin\WebGrease.dll
+F:\Code\Code\EC-TH2012-J\bin\Antlr3.Runtime.pdb
+F:\Code\Code\EC-TH2012-J\bin\AutoMapper.xml
+F:\Code\Code\EC-TH2012-J\bin\Elasticsearch.Net.xml
+F:\Code\Code\EC-TH2012-J\bin\EntityFramework.xml
+F:\Code\Code\EC-TH2012-J\bin\EntityFramework.SqlServer.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Code\Code\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Code\Code\EC-TH2012-J\bin\Nest.xml
+F:\Code\Code\EC-TH2012-J\bin\PagedList.xml
+F:\Code\Code\EC-TH2012-J\bin\PagedList.Mvc.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Net.Http.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Net.Http.WebRequest.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Helpers.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Http.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Http.Cors.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Http.WebHost.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Mvc.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Optimization.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.Razor.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.WebPages.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.WebPages.Deployment.xml
+F:\Code\Code\EC-TH2012-J\bin\System.Web.WebPages.Razor.xml
+F:\Code\Code\EC-TH2012-J\obj\Debug\EC-TH2012-J.dll
+F:\Code\Code\EC-TH2012-J\obj\Debug\EC-TH2012-J.pdb
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\EC-TH2012-J.dll.config
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\EC-TH2012-J.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\EC-TH2012-J.pdb
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Antlr3.Runtime.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\AutoMapper.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\EntityFramework.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\EntityFramework.SqlServer.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Web.Infrastructure.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Newtonsoft.Json.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Owin.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\PagedList.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\PagedList.Mvc.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.Extensions.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.Formatting.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.Primitives.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.WebRequest.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Cors.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Helpers.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.Cors.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.WebHost.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Mvc.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Optimization.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Razor.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.Deployment.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.Razor.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\WebGrease.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Antlr3.Runtime.pdb
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\AutoMapper.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\EntityFramework.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\EntityFramework.SqlServer.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\PagedList.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\PagedList.Mvc.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.WebRequest.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Helpers.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.Cors.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.WebHost.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Mvc.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Optimization.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.Razor.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.Deployment.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.Razor.xml
+D:\DOAN\doan-hiepns\EC-TH2012-J\obj\Debug\EC-TH2012-J.dll
+D:\DOAN\doan-hiepns\EC-TH2012-J\obj\Debug\EC-TH2012-J.pdb
+D:\DOAN\doan-hiepns\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csprojResolveAssemblyReference.cache
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csprojAssemblyReference.cache
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csproj.CoreCompileInputs.cache
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\EC-TH2012-J.dll.config
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\EC-TH2012-J.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\EC-TH2012-J.pdb
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Antlr3.Runtime.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\AutoMapper.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\EntityFramework.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Newtonsoft.Json.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Owin.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\PagedList.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\PagedList.Mvc.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.Extensions.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Net.Http.Primitives.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Cors.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Helpers.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.Cors.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Mvc.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Optimization.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Razor.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\WebGrease.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Antlr3.Runtime.pdb
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\AutoMapper.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\EntityFramework.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\PagedList.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\PagedList.Mvc.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Helpers.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.Cors.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Mvc.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Optimization.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.Razor.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csproj.CopyComplete
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\obj\Debug\EC-TH2012-J.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\obj\Debug\EC-TH2012-J.pdb
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\log4net.dll
+C:\Users\DELL.DESKTOP-TKMHFC1\Downloads\doan-hiepns\EC-TH2012-J\bin\log4net.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csproj.AssemblyReference.cache
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csproj.CoreCompileInputs.cache
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\obj\Debug\EC-TH2012-J.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\obj\Debug\EC-TH2012-J.pdb
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\EC-TH2012-J.dll.config
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\EC-TH2012-J.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\EC-TH2012-J.pdb
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Antlr3.Runtime.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\AutoMapper.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\EntityFramework.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\EntityFramework.SqlServer.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\log4net.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Web.Infrastructure.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Newtonsoft.Json.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Owin.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\PagedList.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\PagedList.Mvc.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Net.Http.Extensions.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Net.Http.Formatting.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Net.Http.Primitives.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Cors.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Helpers.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Http.Cors.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Http.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Http.WebHost.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Mvc.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Optimization.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Razor.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.WebPages.Deployment.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.WebPages.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.WebPages.Razor.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\WebGrease.dll
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Antlr3.Runtime.pdb
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\AutoMapper.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\EntityFramework.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\EntityFramework.SqlServer.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\log4net.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.Google.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\PagedList.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\PagedList.Mvc.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Helpers.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Http.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Http.Cors.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Http.WebHost.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Mvc.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Optimization.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.Razor.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.WebPages.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.WebPages.Deployment.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\bin\System.Web.WebPages.Razor.xml
+D:\DoanXuyen\XuxuSilver\EC-TH2012-J\obj\Debug\WebNhaHangOnline.csproj.CopyComplete

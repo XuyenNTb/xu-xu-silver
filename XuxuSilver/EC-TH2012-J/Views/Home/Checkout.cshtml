@@ -1,0 +1,215 @@
+﻿@model WebNhaHangOnline.Models.Donhangtongquan
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_LayoutFrontEnd.cshtml";
+}
+<script type="text/javascript">
+    $('#hero').hide();
+</script>
+<section id="checkout-page">
+    <div class="container">
+        <div class="col-xs-12 no-margin">
+
+            <!--Order-->
+            @Html.Action("CartOrder", "Xuligiohang")
+
+            @using (Html.BeginForm("Checkout", "Home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                <h2 class="border h1">Thông tin khách hàng :</h2>
+                <div class="form-group">
+                    @Html.Label("Người mua :", new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.buyer, new { @class = "form-control", required = "required" })
+                        @Html.ValidationMessageFor(m => m.buyer)
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.Label("Người nhận :", new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.seller, new { @class = "form-control", required = "required" })
+                        @Html.ValidationMessageFor(m => m.seller)
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.Label("Điện thoại :", new { type = "number", @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.phoneNumber, new { @type = "number", @class = "form-control", required = "required" })
+                        @Html.ValidationMessageFor(m => m.phoneNumber)
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.Label("Địa chỉ :", new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.address, new { @class = "form-control", required = "required" })
+                        @Html.ValidationMessageFor(m => m.address)
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.Label("Ghi chú :", new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextAreaFor(m => m.Note, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Note)
+                    </div>
+                </div>
+                @*<section id="shipping-address">
+                <h2 class="border h1">shipping address</h2>
+                <div class="row field-row">
+                    <div class="col-xs-12">
+                        <input class="le-checkbox big" type="checkbox" />
+                        <a class="simple-link bold" href="#">ship to different address?</a>
+                    </div>
+                </div>
+            </section>*@<!-- /#shipping-address -->
+
+
+                <div id="payment-method-options">
+                    @*<div class="payment-method-option">
+                    <input class="le-radio" type="radio" name="group2" value="Direct">
+                    <div class="radio-label bold ">
+                        Direct Bank Transfer<br>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce rutrum tempus elit, vestibulum vestibulum erat ornare id.</p>
+                    </div>
+                </div>*@<!-- /.payment-method-option -->
+                    @*<div class="payment-method-option">
+                    <input class="le-radio" type="radio" name="group2" value="cheque">
+                    <div class="radio-label bold ">cheque payment</div>
+                </div>*@<!-- /.payment-method-option -->
+                    @*<div class="payment-method-option">
+                    <input class="le-radio" type="radio" name="group2" value="paypal">
+                    <div class="radio-label bold ">paypal system</div>
+                </div>*@<!-- /.payment-method-option -->
+                </div><!-- /#payment-method-options -->
+                <div class="place-order-button">
+                    <button id="btnPayPopup" class="le-button big">Đặt hàng và thanh toán online</button>
+                    <input type="submit" class="le-button big" value="Đặt hàng" />
+                </div><!-- /.place-order-button -->
+            }
+
+            <form name="form1" hidden id="form1">
+                <div>
+                    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4NzIxMjM5NDNkZFrqG4VZSWrTS+KKW0w/QG8aXHrO/q5w4vomDIwb6QtD">
+                </div>
+
+                <div>
+
+                    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+                    <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB8x+3hRFt55o2XBFjbPbgL++BydFP/ftBKdaYFEf3N67LSIxhcfUeeTcG4uSJNQQt8GDdED13Nkc73TBN8w/4vEWjzw1+L8gT4TanDjM+LYsDa8D4hTXWaYdcirrpHQFC8hp/mdhB/8bqu/pBGMApEvh00uA0pb//QHHWUGHECSwRrLYPEU2sMbaYAc3hCN7EQZDU9ztKQeSybhu0umG1+MVd8coza1B3uEZNAKLIoTZ+k8JvtvsT7ygByKapKbLTZ82YBwlkrvzdp0mTs3U/rwtpWLKLEe6JkjRBZ4J/zp/aqC1S0Xts15w9ete5da2F63pU9RCygbgdj4l+RSy+HDxCLeufUL2xIP+/S2iMWcrRbrgc0anVy2+3pcy4TXSW+wFk2CKrrKZjQ6qHYLPoxP0CpJapz+Ft9zfKuTq50kZQnLDvAo+00INRpXlgOy6gVvJluOvmY5s2O4zJdxfhALwNwpSmN30nvIM7PQewSE8vhcX/e5SOFkTo0ctgM5IkpYqzYhTgON0lEtY5VPe77wC4u6EzM6T9VXSC9unykOGhqSOpbNTZedhZ27d9K+fEXVR75KGJfNypcCvuZPcoDuky/swLNW44HbuSvfbiycKDZUD2K2T7oQjzZ6s+/1cKM1T6VbBUnqZnmEeZq16az7lgcMirFtmDwu9IaqocvTfJDxk4DTyPCXMQ/oFV3Vz3Y=">
+                </div>
+                <h3>Tạo yêu cầu thanh toán </h3>
+
+                <div class="form-group">
+                    <label>Loại hàng hóa (*) </label>
+                    <select name="orderCategory" id="orderCategory" class="form-control">
+                        <option value="topup">Nạp tiền điện thoại</option>
+                        <option value="billpayment">Thanh toán hóa đơn</option>
+                        <option value="fashion">Thời trang</option>
+                        <option value="other">Thanh toán trực tuyến</option>
+
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Số tiền (*)</label>
+                    <input name="Amount" type="text" value="10000" id="Amount" class="form-control">
+
+                </div>
+                <div class="form-group">
+                    <label>Nội dung thanh toán (*)</label>
+                    <input name="OrderDescription" type="text" value="Noi dung thanh toan:20210426221454" id="OrderDescription" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Ngân hàng</label>
+                    <select name="bank" id="bank" class="form-control">
+                        <option value="">Không chọn</option>
+                        <option value="NCB">Ngan hang NCB</option>
+                        <option value="SACOMBANK">Ngan hang SacomBank</option>
+                        <option value="EXIMBANK">Ngan hang EximBank</option>
+                        <option value="MSBANK">Ngan hang MSBANK</option>
+                        <option value="NAMABANK">Ngan hang NamABank </option>
+                        <option value="VISA">The quoc te VISA/MASTER</option>
+                        <option value="VNMART">Vi dien tu VnMart</option>
+                        <option value="VIETINBANK">Ngan hang Vietinbank</option>
+                        <option value="VIETCOMBANK">Ngan hang VCB</option>
+                        <option value="HDBANK">Ngan hang HDBank</option>
+                        <option value="DONGABANK">Ngan hang Dong A</option>
+                        <option value="TPBANK">Ngân hàng TPBank</option>
+                        <option value="OJB">Ngân hàng OceanBank</option>
+                        <option value="BIDV">Ngân hàng BIDV</option>
+                        <option value="TECHCOMBANK">Ngân hàng Techcombank</option>
+                        <option value="VPBANK">Ngan hang VPBank</option>
+                        <option value="AGRIBANK">Ngan hang Agribank</option>
+                        <option value="ACB">Ngan hang ACB</option>
+                        <option value="OCB">Ngan hang Phuong Dong</option>
+                        <option value="SCB">Ngan hang SCB</option>
+
+                    </select>
+
+                </div>
+                <div class="form-group">
+                    <label>Ngôn ngữ  (*)</label>
+                    <select name="language" id="language" class="form-control">
+                        <option value="vn">Tiếng Việt</option>
+                        <option value="en">English</option>
+
+                    </select>
+
+                </div>
+            </form>
+
+        </div><!-- /.col -->
+    </div><!-- /.container -->
+</section><!-- /#checkout-page -->
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.xoaClick').trigger('click');
+
+        $("#btnPayPopup").click(function () {
+
+            if ($("#buyer").val() == "") {
+                swal("Lỗi!", "Tên người mua không được để trống!", "error");
+            } else if ($("#seller").val() == "") {
+                swal("Lỗi!", "Tên người nhận không được để trống!", "error");
+            } else if ($("#phoneNumber").val() == "") {
+                swal("Lỗi!", "Số điện thoại không được để trống!", "error");
+            } else if ($("#address").val() == "") {
+                swal("Lỗi!", "Địa chỉ không được để trống!", "error");
+            } else
+            {
+
+                var khachHang = {
+                    "buyer": $("#buyer").val(),
+                    "seller": $("#seller").val(),
+                    "phoneNumber": $("#phoneNumber").val(),
+                    "address": $("#address").val(),
+                    "Note": $("#Note").val()
+                };
+
+                localStorage.setItem("khachHang", JSON.stringify(khachHang));
+                var money = $('#total-field li div.value').text().split(" ")[0];
+                $("#Amount").val(money.replace(",", ""));
+                var postData = $("#form1").serialize();
+                var submitUrl = '/Home/GetUrl';
+                $.ajax({
+                    type: "GET",
+                    url: submitUrl,
+                    data: postData,
+                    dataType: 'JSON',
+                    success: function (x) {
+                        if (x.code === '00') {
+                            if (window.vnpay) {
+                                vnpay.open({ width: 480, height: 600, url: x.data });
+                            } else {
+                                location.href = x.data;
+                            }
+                            return false;
+                        } else {
+                            alert(x.Message);
+                        }
+                    }
+                });
+                return false;
+            }
+        })
+    });
+</script>
